@@ -12,3 +12,7 @@
 8. [GitHub Actions](actions.md)
 9. [GitHub Desktop](desktop.md)
 10. [Other GitHub extensions and tools](tools.md)
+
+### Have any other helpful tips?
+
+Go ahead and open an issue and tell me what other tips should be added!
