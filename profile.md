@@ -1,5 +1,7 @@
 # Profile
 
+Access your profile from github.com/your-username or https://github.com/settings/profile
+
 ## Basic info
 
 - Include the info you feel comfortable with
@@ -28,4 +30,6 @@
   - activity overview
 - Employers can look at this
 
-  
+## Other stuff for you
+
+- Stay up-to-date with notifications: https://github.com/notifications
