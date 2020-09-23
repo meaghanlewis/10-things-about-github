@@ -1,6 +1,6 @@
 # Profile
 
-Access your profile from github.com/your-username or https://github.com/settings/profile
+Access your profile from github.com/_your-username_ or https://github.com/settings/profile
 
 ## Basic info
 
