@@ -30,6 +30,6 @@ Access your profile from github.com/_your-username_ or https://github.com/settin
   - activity overview
 - Employers can look at this
 
-## Other stuff for you
+## Other stuff to help you out
 
 - Stay up-to-date with notifications: https://github.com/notifications
