@@ -12,7 +12,7 @@
 
 - Be descriptive
 - If there is a template, use it
-- Create your own templates for pull requests in `.github/PULL_REQUEST_TEMPLATE/pull_request_template.md`
+- Create your own templates for pull requests in `.github/PULL_REQUEST_TEMPLATE`
 - Add assignees and/or reviewers
 - Setup review rules
 - Add helpful tools to use with your PRs
