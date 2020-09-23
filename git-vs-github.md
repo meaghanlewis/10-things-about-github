@@ -17,7 +17,7 @@ Provides hosting for software development and version control using Git. It offe
 | Software | Service |
 | Installed locally | Hosted on the web |
 | Command line interface | Web interface |
-| version control and source code management | Git functionality + GitHub specific features |
+| Version control and source code management | Git functionality + GitHub specific features |
 
 ## Quiz
 
