@@ -4,4 +4,5 @@ GitHub Actions makes it easy to automate all your software workflows, now with w
 
 - Learn more about the features: https://github.com/features/actions
 - Explore available Actions: https://github.com/marketplace?type=actions
+- See starter workflows: https://github.com/actions/starter-workflows
 - Learn how to use GitHub Actions: https://docs.github.com/en/actions/learn-github-actions
