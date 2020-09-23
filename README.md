@@ -1,6 +1,6 @@
 # 10 things to know about GitHub!
 
-A collection of helpful tips and tricks to become a GitHub power user.
+:sparkles:  A collection of helpful tips and tricks to become a GitHub power user. :sparkles: 
 
 1. [Git vs GitHub](git-vs-github.md)
 2. [Profile](profile.md)
